@@ -1,4 +1,4 @@
-﻿# PHP OOP AJAX PD0
+﻿# PHP OOP AJAX PDO
 
 Generic script for creating CRUD form. Guided by database and class declaration.
 
