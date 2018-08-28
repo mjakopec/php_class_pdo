@@ -13,7 +13,7 @@ if (empty($_GET['target'])) {$_GET['target']='user';}
 <style>
 body{
 margin:15px 15px 15px 15px;
-background-image:url('http://wallpapercave.com/wp/on3Qke1.png');
+background-image:url('images/background.png');
 font-family: 'Open Sans', sans-serif;
 font-weight: bold;
 }
